@@ -53,7 +53,7 @@ I used Hydra to create repeated failed SSH login attempts so authentication acti
 
 ### 3. Logged In Successfully
 
-After the failed attempts, I logged in through SSH using valid credentials. <img width="339" height="177" alt="successful-ssh-logs" src="https://github.com/user-attachments/assets/4df6f45b-b7d4-43a3-bb12-6b1994685cd9" />
+After the failed attempts, I logged in through SSH using valid credentials. 
 
 ### 4. Simulated Post-Login Activity
 
@@ -64,6 +64,7 @@ Once logged in, I ran basic commands that could be associated with basic system 
 - `pwd`
 - `ls /home`
 - `cat /etc/passwd | head`
+<img width="339" height="177" alt="successful-ssh-logs" src="https://github.com/user-attachments/assets/545dc246-0130-47dd-9b26-f0b71cc966a0" />
 
 ### 5. Investigated in Splunk
 
