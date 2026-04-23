@@ -81,7 +81,7 @@ Inside Splunk, I reviewed the logs to:
 
 ## Results
 
-The logs showed a clear sequence of events from the same source system. I was able to confirm reconnaissance activity, repeated failed authentication attempts, a successful SSH login, and additional commands after access. <img width="694" height="272" alt="investigation-findings" src="https://github.com/user-attachments/assets/3c1baed8-3725-4500-a4c9-30da663514a4" />
+The logs showed a clear sequence of events from the same source system. I was able to confirm reconnaissance activity, repeated failed authentication attempts, a successful SSH login, and additional commands after access. <img width="695" height="255" alt="investigation-findings" src="https://github.com/user-attachments/assets/d6b314f0-b1b8-4ade-aa84-a530e069bd74" />
 
 This project helped me better understand how separate log events can be tied together during an investigation instead of being viewed one event at a time.
 
